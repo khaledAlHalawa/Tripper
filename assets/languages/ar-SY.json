@@ -1,0 +1,58 @@
+{
+  "_comment_-1" : "***** Here Global Section *****",
+  "global_please_wait": "الرجاء الانتظار...",
+
+  "_comment_0" : "***** Here Home Section *****",
+
+
+  "_comment_1" : "***** Here Search Section *****",
+  "search_lbl_appbar_title" : "قائمة البحث",
+
+
+  "_comment_2" : "***** Here Favorite Section *****",
+  "favorite_lbl_appbar_title" : "قائمة المفضلة",
+
+
+  "_comment_3" : "***** Here Profile Section *****",
+
+
+  "_comment_4" : "***** Here Drawer Section *****",
+  "drawer_lbl_home" : "الرئيسية",
+  "drawer_lbl_cities" : "المدن",
+  "drawer_lbl_trips" : "الرحلات",
+  "drawer_lbl_places" : "الأماكن",
+  "drawer_lbl_products" : "المنتجات",
+  "drawer_lbl_favorite" : "المفضلة",
+  "drawer_lbl_about_app" : "عن التطبيق",
+  "drawer_lbl_logout" : "تسجيل الخروج",
+  "drawer_lbl_terms_and_conditions" : "الشروط والأحكام",
+
+
+  "_comment_5" : "***** Here Auth Section *****",
+  "auth_lbl_skip" : "تخطي",
+  "auth_lbl_email" : "البريد الالكتروني *",
+  "auth_lbl_password" : "كلمة المرور *",
+  "auth_lbl_login" : "تسجيل الدخول",
+  "auth_lbl_have_not_account" : "ليس لديك حساب؟",
+  "auth_lbl_register" : "إنشاء حساب",
+  "auth_lbl_firstname" : "الاسم الأول *",
+  "auth_lbl_lastname" : "الاسم الأخير *",
+  "auth_lbl_confirm_password" : "تأكيد كلمة المرور",
+  "auth_lbl_city" : "المدينة *",
+  "auth_lbl_gender" : "الجنس *",
+  "auth_lbl_have_account" : "لديك حساب مسبقا؟",
+  "auth_msg_travel_with_people" : "السفر مع الناس. تكوين صداقات جديدة.",
+
+
+
+  "_comment_6" : "***** Here Intro and Welcome Section *****",
+  "intro_lbl_please_select_your_interests" : "الرجاء اختيار اهتماماتك الخاصة لتجربة أكثر راحة",
+  "intro_lbl_please_select_cities_interest" : "الرجاء اختيار المدن المهتم بها",
+  "intro_lbl_continue" : "متابعة",
+  "welcome_lbl_skip" : "تخطي",
+  "welcome_lbl_hi" : "مرحبا بك",
+  "welcome_lbl_login" : "تسجيل الدخول",
+  "welcome_lbl_register" : "إنشاء حساب",
+  "welcome_msg_welcome_user" : ""
+
+}

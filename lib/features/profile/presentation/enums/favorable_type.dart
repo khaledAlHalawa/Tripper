@@ -1,0 +1,1 @@
+enum EntityAbleType { place, journey }

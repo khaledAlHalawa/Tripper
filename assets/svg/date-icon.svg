@@ -1,0 +1,9 @@
+<svg id="date-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_1626" data-name="Rectangle 1626" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <g id="Group_1941" data-name="Group 1941" transform="translate(-181.368 -155.368)">
+    <path id="Path_1092" data-name="Path 1092" d="M4.936,2a.734.734,0,0,0-.734.734v.734H3.468A1.468,1.468,0,0,0,2,4.936v7.341a1.468,1.468,0,0,0,1.468,1.468h8.809a1.468,1.468,0,0,0,1.468-1.468V4.936a1.468,1.468,0,0,0-1.468-1.468h-.734V2.734a.734.734,0,1,0-1.468,0v.734H5.67V2.734A.734.734,0,0,0,4.936,2Zm0,3.67a.734.734,0,1,0,0,1.468h5.873a.734.734,0,0,0,0-1.468Z" transform="translate(185.495 159.495)" fill="#395aff" fill-rule="evenodd"/>
+  </g>
+</svg>

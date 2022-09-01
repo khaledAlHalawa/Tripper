@@ -1,0 +1,7 @@
+<svg id="plus-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_1661" data-name="Rectangle 1661" fill="#585858" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_1138" data-name="Path 1138" d="M11.621,5a1.324,1.324,0,0,1,1.324,1.324V10.3h3.973a1.324,1.324,0,0,1,0,2.648H12.945v3.973a1.324,1.324,0,0,1-2.648,0V12.945H6.324a1.324,1.324,0,0,1,0-2.648H10.3V6.324A1.324,1.324,0,0,1,11.621,5Z" transform="translate(0.379 0.379)" fill="#585858" fill-rule="evenodd"/>
+</svg>

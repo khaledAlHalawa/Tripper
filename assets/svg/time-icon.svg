@@ -1,0 +1,9 @@
+<svg id="time-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_1961" data-name="Group 1961" transform="translate(-276 -469)">
+    <g id="Rectangle_1626" data-name="Rectangle 1626" transform="translate(276 469)" fill="#395aff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_1106" data-name="Path 1106" d="M8,14A6,6,0,1,0,2,8,6,6,0,0,0,8,14Zm.75-9a.75.75,0,1,0-1.5,0V8a.75.75,0,0,0,.22.53l2.12,2.121a.75.75,0,1,0,1.061-1.061l-1.9-1.9Z" transform="translate(280 473.002)" fill="#395aff" fill-rule="evenodd"/>
+  </g>
+</svg>
